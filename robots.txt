@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.maoxiongwangluo.com/sitemap.xml
